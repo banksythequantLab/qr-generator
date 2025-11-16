@@ -2,6 +2,10 @@
 
 This project is a web-based QR code generator built with FastAPI that allows you to create QR codes with custom logos or overlay them onto images.
 
+## Screenshot
+
+![Screenshot of the QR Code Generator web interface](images/screenshot.png)
+
 ## Description
 
 This application provides a simple and intuitive web interface to generate QR codes. You can either embed a logo in the center of a QR code or overlay a QR code onto a larger image. The application is built with Python and the FastAPI framework, with a simple HTML, CSS, and JavaScript frontend.
